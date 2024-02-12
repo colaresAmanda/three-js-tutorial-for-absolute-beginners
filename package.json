@@ -1,15 +1,25 @@
 {
   "name": "three-js-tutorial-for-absolute-beginners",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "parcel ./src/index.html", 
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "colaresAmanda",
   "license": "ISC",
   "dependencies": {
     "three": "^0.161.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colaresAmanda/three-js-tutorial-for-absolute-beginners.git"
+  },
+  "bugs": {
+    "url": "https://github.com/colaresAmanda/three-js-tutorial-for-absolute-beginners/issues"
+  },
+  "homepage": "https://github.com/colaresAmanda/three-js-tutorial-for-absolute-beginners#readme",
+  "description": ""
 }
