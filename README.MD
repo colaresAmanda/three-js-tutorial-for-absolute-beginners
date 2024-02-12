@@ -42,12 +42,12 @@ Building a 3D scene in Three.js involves several fundamental components:
 - Far Clipping Plane
 
 ### Orthographic Camera: Used when depth isn't a concern. Composed of six values:
-- Top Edge: The distance from the center of the camera's view to the top edge of the viewing volume.
-- Left Edge: The distance from the center of the camera's view to the left edge of the viewing volume.
-- Bottom Edge: The distance from the center of the camera's view to the bottom edge of the viewing volume.
-- Right Edge: The distance from the center of the camera's view to the right edge of the viewing volume.
-- Near Clipping Plane: The distance from the camera to the nearest visible objects in the scene. Objects closer than this distance will not be rendered.
-- Far Clipping Plane: The distance from the camera to the farthest visible objects in the scene. Objects farther than this distance will not be rendered.
+- Top Edge
+- Left Edge
+- Bottom Edge
+- Right Edge
+- Near Clipping Plane
+- Far Clipping Plane
 
 
 
